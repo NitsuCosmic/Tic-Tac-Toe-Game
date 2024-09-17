@@ -1,0 +1,37 @@
+# Dependency directories
+/node_modules/
+
+# Build output
+/build/
+/dist/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Coverage reports
+/coverage/
+
+# Optional lock files
+package-lock.json
+yarn.lock
+tailwind.config.json
+README.md
+vite.config.js
+postcss.config.js
+eslint.config.js
+tailwind.config.js
